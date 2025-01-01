@@ -1,4 +1,4 @@
-const { fetchEmails } = require('./services/gmailService');
+const { fetchEmails } = require('./services/gmailservice');
 const { createJiraTicket } = require('./services/jiraService');
 const logger = require('./utils/logger');
 
