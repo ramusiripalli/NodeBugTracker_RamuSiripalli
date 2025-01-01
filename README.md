@@ -10,4 +10,6 @@
  ![Jira ticket subject and description](https://github.com/ramusiripalli/NodeBugTracker_RamuSiripalli/blob/main/Node%20Bot/4.png?raw=true)
   # Slack Support channel
  ![Slack Support channel](https://github.com/ramusiripalli/NodeBugTracker_RamuSiripalli/blob/main/Node%20Bot/5.png?raw=true)
+# link to Jira
+  ![Slack Support channel](https://github.com/ramusiripalli/NodeBugTracker_RamuSiripalli/blob/main/Node%20Bot/6.png?raw=true)
 
